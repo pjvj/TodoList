@@ -1,0 +1,128 @@
+.body{
+    color: #fff;
+    background: #63738a;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container12{
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-right: 0px;
+    padding-left: 0px;display: flex;
+    justify-content: center;
+    height: 800px;
+    width: 1000px;
+
+}
+.dated{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    font-family: bold;
+    margin-right: 0px;
+    color: darkorange;
+}
+.date{
+    font-size: 43px;
+    font-family: Arial;
+    font-weight: bold;
+    font-family: bold;
+    margin-right: 0px;
+    color: darkorange;
+}
+
+.day{
+    text-align: right;
+    margin-top: 10px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+.card{
+    border: 1px solid crimson;
+    width: 28rem;
+    text-align: center;
+
+}
+.card-img{
+    height: 100px;
+    padding-top: 15px;
+
+
+}
+.input1 {
+    alignment: left;
+    align-self: left;
+    font-size: 16px;
+    border: 2px solid darkorange;
+    width: 250px;
+}
+.card-body{
+
+    font-size: 16px;
+    margin-right: 0px;
+    color: #FFF;
+}
+.card-title{
+
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: bold;
+    font-family: bold;
+    color: darkorange;
+}
+
+.ul {
+    margin-right: 20px;
+    padding-right: 20px;
+    margin-inside: 0px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+
+}
+
+.list1{
+    text-align: left;
+    width: 350px;
+}
+
+.list-group-item:hover{
+    text-align: left;
+    alignment: left;
+    color: HighlightText;
+    text-emphasis-color: black;
+    cursor: all-scroll;
+    width: 350px;
+
+}
+.active{
+    color: burlywood;
+
+}
+.btn{
+
+    border-radius: 100%;
+    border-color: darkorange;
+}
+.button1{
+
+    background-color: white;
+    border: solid 5px burlywood;
+    border-radius: 50%;
+    vertical-align: top;
+    horiz-align: left;
+
+}
+.button2{
+    background-color: white;
+    border: solid 5px darkorange;
+    border-radius: 50%;
+    vertical-align: top;
+    horiz-align: left;
+}
+.ToggleButton{
+    color: darkorange;
+    border-color: darkorange;
+}
+
